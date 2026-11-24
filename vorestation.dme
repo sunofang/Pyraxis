@@ -5155,6 +5155,7 @@
 #include "modular_pyraxis\code\modules\research\tg\techwebs\nodes\research_nodes.dm"
 #include "modular_pyraxis\maps\_map_system_readme.dm"
 #include "modular_pyraxis\maps\pyraxis\pyraxis_portals.dm"
+#include "modular_pyraxis\maps\pyraxis\pyraxis_telecomms.dm"
 #include "modular_pyraxis\maps\~map_system\_map_selection.dm"
 #include "modular_pyraxis\maps\~map_system\maps.dm"
 // END_INCLUDE

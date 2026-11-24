@@ -11,10 +11,10 @@ export BYOND_MINOR=1688
 export MACRO_COUNT=7
 
 #rust_g git tag
-export RUST_G_VERSION=7.0.0
+export RUST_G_VERSION=7.1.0
 
 # Bun version
-export BUN_VERSION=1.4.2
+export BUN_VERSION=1.4.4
 
 # SpacemanDMM git tag
 export SPACEMAN_DMM_VERSION=suite-1.12
